@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          바뀜?
+          Learn React
         </a>
       </header>
     </div>
